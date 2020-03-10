@@ -1,6 +1,6 @@
 # Google Cloud Platform Project Demo3
 
-# Terraform part one
+# Terraform part two
 
 ## Compatibility
 
